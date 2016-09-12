@@ -1,0 +1,23 @@
+package:
+    name: jedi
+    version: 0.10.0
+
+source:
+    git_rev: be2a97cd36ce1b7d6f587ef122efc3433b1e8ae2
+    git_url: https://github.com/davidhalter/jedi
+
+requirements:
+    build:
+        - python
+        - setuptools
+
+    run:
+        - python
+
+test:
+    imports:
+
+about:
+    home:
+    license:
+    license_file:

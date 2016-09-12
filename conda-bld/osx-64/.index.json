@@ -1,0 +1,34 @@
+{
+  "jedi-0.10.0-py34_0.tar.bz2": {
+    "arch": "x86_64",
+    "build": "py34_0",
+    "build_number": 0,
+    "depends": [
+      "python 3.4*"
+    ],
+    "md5": "da7487a0a8c28f453eb7f06b3e849cac",
+    "mtime": 1473654605.0,
+    "name": "jedi",
+    "platform": "osx",
+    "sig": null,
+    "size": 234053,
+    "subdir": "osx-64",
+    "version": "0.10.0"
+  },
+  "jedi-0.10.0-py35_0.tar.bz2": {
+    "arch": "x86_64",
+    "build": "py35_0",
+    "build_number": 0,
+    "depends": [
+      "python 3.5*"
+    ],
+    "md5": "1d0d09e326e0a5916a0bef7b69478c8d",
+    "mtime": 1473654605.0,
+    "name": "jedi",
+    "platform": "osx",
+    "sig": null,
+    "size": 233221,
+    "subdir": "osx-64",
+    "version": "0.10.0"
+  }
+}
