@@ -9,7 +9,7 @@
       ],
       "md5": "da7487a0a8c28f453eb7f06b3e849cac",
       "name": "jedi",
-      "sig": null,
+      "sig": ".",
       "size": 234053,
       "subdir": "osx-64",
       "version": "0.10.0"
@@ -22,7 +22,7 @@
       ],
       "md5": "1d0d09e326e0a5916a0bef7b69478c8d",
       "name": "jedi",
-      "sig": null,
+      "sig": ".",
       "size": 233221,
       "subdir": "osx-64",
       "version": "0.10.0"

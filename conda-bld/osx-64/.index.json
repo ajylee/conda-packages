@@ -7,10 +7,10 @@
       "python 3.4*"
     ],
     "md5": "da7487a0a8c28f453eb7f06b3e849cac",
-    "mtime": 1473654605.0,
+    "mtime": 1473654737.0,
     "name": "jedi",
     "platform": "osx",
-    "sig": null,
+    "sig": ".",
     "size": 234053,
     "subdir": "osx-64",
     "version": "0.10.0"
@@ -23,10 +23,10 @@
       "python 3.5*"
     ],
     "md5": "1d0d09e326e0a5916a0bef7b69478c8d",
-    "mtime": 1473654605.0,
+    "mtime": 1473654737.0,
     "name": "jedi",
     "platform": "osx",
-    "sig": null,
+    "sig": ".",
     "size": 233221,
     "subdir": "osx-64",
     "version": "0.10.0"
